@@ -1,0 +1,2331 @@
+[
+  {
+    "id": 1,
+    "title": "Victoria Sponge",
+    "category": "Cakes",
+    "servings": 8,
+    "prep": 20,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "200 g softened butter"
+      },
+      {
+        "qty": "",
+        "item": "200 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "4 eggs"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      },
+      {
+        "qty": "",
+        "item": "150 g strawberry jam"
+      },
+      {
+        "qty": "",
+        "item": "150 ml double cream"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Grease and line two 20cm sandwich tins.",
+      "Beat butter and sugar until pale, then beat in eggs one at a time and vanilla.",
+      "Fold in flour, divide between tins and bake 22–25 minutes until springy.",
+      "Cool completely, whip cream and sandwich cakes with jam and cream. Refrigerate if not serving promptly."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "victoria sponge",
+      "cakes"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chocolate Fudge Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 25,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "180 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "60 g cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "250 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "180 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "120 ml vegetable oil"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp baking powder"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp bicarbonate of soda"
+      },
+      {
+        "qty": "",
+        "item": "150 ml hot water"
+      },
+      {
+        "qty": "",
+        "item": "200 g dark chocolate"
+      },
+      {
+        "qty": "",
+        "item": "200 ml double cream"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line two 20cm tins.",
+      "Whisk dry ingredients, then eggs, milk and oil. Carefully stir in hot water.",
+      "Divide into tins and bake 30–35 minutes until a skewer comes out clean. Cool.",
+      "Heat cream until steaming, pour over chopped chocolate, stir smooth and cool until spreadable. Sandwich and cover cakes."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "chocolate fudge cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Lemon Drizzle Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 15,
+    "cook": 45,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g softened butter"
+      },
+      {
+        "qty": "",
+        "item": "200 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "4 eggs"
+      },
+      {
+        "qty": "",
+        "item": "200 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "2 lemons"
+      },
+      {
+        "qty": "",
+        "item": "85 g granulated sugar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 2lb loaf tin.",
+      "Cream butter and caster sugar; beat in eggs and fold in flour and zest of one lemon.",
+      "Bake 40–45 minutes until a skewer comes out clean.",
+      "Mix juice of both lemons with granulated sugar. Pierce warm cake and spoon drizzle over. Cool in tin."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "lemon drizzle cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Carrot Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 20,
+    "cook": 40,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "175 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "150 ml sunflower oil"
+      },
+      {
+        "qty": "",
+        "item": "200 g grated carrot"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp baking powder"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      },
+      {
+        "qty": "",
+        "item": "75 g chopped walnuts"
+      },
+      {
+        "qty": "",
+        "item": "150 g cream cheese"
+      },
+      {
+        "qty": "",
+        "item": "60 g icing sugar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 20cm round tin.",
+      "Whisk eggs, oil and sugar; fold in flour, baking powder, cinnamon, carrots and walnuts.",
+      "Bake 35–40 minutes until centre is set. Cool completely.",
+      "Beat cream cheese with icing sugar and spread over cake. Keep chilled."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "carrot cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Coffee and Walnut Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 20,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g butter"
+      },
+      {
+        "qty": "",
+        "item": "200 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "4 eggs"
+      },
+      {
+        "qty": "",
+        "item": "200 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp instant coffee"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp hot water"
+      },
+      {
+        "qty": "",
+        "item": "80 g chopped walnuts"
+      },
+      {
+        "qty": "",
+        "item": "150 g butter"
+      },
+      {
+        "qty": "",
+        "item": "250 g icing sugar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line two 20cm tins. Dissolve coffee in water and cool.",
+      "Cream first butter and sugar; beat in eggs, flour, half the coffee and walnuts.",
+      "Divide and bake 25–30 minutes. Cool fully.",
+      "Beat remaining butter with icing sugar and remaining coffee; sandwich and ice."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "coffee and walnut cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Banana Bread",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 15,
+    "cook": 55,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "3 ripe bananas"
+      },
+      {
+        "qty": "",
+        "item": "100 g melted butter"
+      },
+      {
+        "qty": "",
+        "item": "150 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "225 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 2lb loaf tin.",
+      "Mash bananas and mix with melted butter, sugar and eggs.",
+      "Fold in flour and cinnamon without overmixing.",
+      "Bake 50–55 minutes until a skewer comes out clean. Cool before slicing."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "banana bread",
+      "cakes"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Marble Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 20,
+    "cook": 50,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "225 g butter"
+      },
+      {
+        "qty": "",
+        "item": "225 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "4 eggs"
+      },
+      {
+        "qty": "",
+        "item": "225 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp milk"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 2lb loaf tin.",
+      "Cream butter and sugar; beat in eggs and fold in flour and vanilla.",
+      "Divide batter; stir cocoa and milk into one half. Alternate spoonfuls in tin and swirl once.",
+      "Bake 45–50 minutes until a skewer comes out clean. Cool."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "marble cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Orange Polenta Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 20,
+    "cook": 45,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g ground almonds"
+      },
+      {
+        "qty": "",
+        "item": "100 g fine polenta"
+      },
+      {
+        "qty": "",
+        "item": "200 g butter"
+      },
+      {
+        "qty": "",
+        "item": "180 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "3 eggs"
+      },
+      {
+        "qty": "",
+        "item": "2 oranges"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp baking powder"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 20cm round tin.",
+      "Cream butter and sugar; beat in eggs and orange zest.",
+      "Fold in almonds, polenta and baking powder. Spoon into tin.",
+      "Bake 40–45 minutes until set; spoon over juice from one orange while warm."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "orange polenta cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Apple Crumble Cake",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 20,
+    "cook": 50,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "150 g butter"
+      },
+      {
+        "qty": "",
+        "item": "150 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "100 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "2 apples"
+      },
+      {
+        "qty": "",
+        "item": "75 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "50 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 20cm square tin.",
+      "Cream 100g butter with caster sugar; beat in eggs and fold in self-raising flour and milk.",
+      "Spread batter in tin and cover with thin apple slices.",
+      "Rub remaining butter into plain flour, brown sugar and cinnamon. Scatter on top and bake 45–50 minutes."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "apple crumble cake",
+      "cakes"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Gingerbread Loaf",
+    "category": "Cakes",
+    "servings": 10,
+    "prep": 15,
+    "cook": 55,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "225 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g dark brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "150 g black treacle"
+      },
+      {
+        "qty": "",
+        "item": "150 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "2 tsp ground ginger"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp bicarbonate of soda"
+      }
+    ],
+    "steps": [
+      "Heat oven to 160°C (140°C fan). Line a 2lb loaf tin.",
+      "Warm butter, sugar and treacle gently until melted; cool slightly.",
+      "Mix flour, ginger and bicarbonate. Stir in treacle mixture, milk and egg.",
+      "Bake 50–55 minutes until set. Cool before slicing."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "gingerbread loaf",
+      "cakes"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Chocolate Chip Cookies",
+    "category": "Biscuits",
+    "servings": 18,
+    "prep": 15,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "125 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "75 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "200 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp bicarbonate of soda"
+      },
+      {
+        "qty": "",
+        "item": "150 g chocolate chips"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line two baking trays.",
+      "Cream butter and sugars, beat in egg, then fold in flour, bicarbonate and chocolate.",
+      "Scoop 18 spaced mounds onto trays.",
+      "Bake 10–12 minutes until edges are golden. Leave on trays 5 minutes before moving."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "chocolate chip cookies",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Shortbread Fingers",
+    "category": "Biscuits",
+    "servings": 20,
+    "prep": 15,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "300 g plain flour"
+      }
+    ],
+    "steps": [
+      "Heat oven to 170°C (150°C fan). Line a 20cm square tin.",
+      "Cream butter and sugar, then work in flour until a soft dough forms.",
+      "Press into tin, prick with a fork and score into fingers.",
+      "Bake 22–25 minutes until pale gold. Cut while warm and cool fully."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "shortbread fingers",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Oat and Raisin Cookies",
+    "category": "Biscuits",
+    "servings": 18,
+    "prep": 15,
+    "cook": 14,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "125 g butter"
+      },
+      {
+        "qty": "",
+        "item": "120 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "100 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "120 g rolled oats"
+      },
+      {
+        "qty": "",
+        "item": "90 g raisins"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp cinnamon"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp bicarbonate of soda"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line trays.",
+      "Cream butter and sugar; beat in egg. Mix in flour, oats, raisins, cinnamon and bicarbonate.",
+      "Spoon spaced portions onto trays.",
+      "Bake 12–14 minutes until edges set; cool on trays briefly."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "oat and raisin cookies",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Ginger Biscuits",
+    "category": "Biscuits",
+    "servings": 20,
+    "prep": 15,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "75 g golden syrup"
+      },
+      {
+        "qty": "",
+        "item": "2 tsp ground ginger"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp bicarbonate of soda"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line baking trays.",
+      "Melt butter with syrup gently. Mix flour, sugar, ginger and bicarbonate.",
+      "Combine wet and dry ingredients; roll small balls and space on trays.",
+      "Bake 10–12 minutes until golden; cool to crisp."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "ginger biscuits",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Jam Thumbprint Biscuits",
+    "category": "Biscuits",
+    "servings": 20,
+    "prep": 20,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "125 g butter"
+      },
+      {
+        "qty": "",
+        "item": "75 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg yolk"
+      },
+      {
+        "qty": "",
+        "item": "80 g raspberry jam"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line trays.",
+      "Cream butter and sugar, beat in yolk, then work in flour.",
+      "Roll into 20 balls, make a thumb indentation in each and add a little jam.",
+      "Bake 12–15 minutes until lightly golden. Cool before eating; jam is very hot."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "jam thumbprint biscuits",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Peanut Butter Cookies",
+    "category": "Biscuits",
+    "servings": 16,
+    "prep": 15,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "150 g smooth peanut butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "120 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "160 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp baking powder"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line trays.",
+      "Beat peanut butter, butter and sugar; add egg, flour and baking powder.",
+      "Shape into 16 balls and flatten with a fork.",
+      "Bake 10–12 minutes until edges set. Cool on tray."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "peanut butter cookies",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Coconut Macaroons",
+    "category": "Biscuits",
+    "servings": 16,
+    "prep": 15,
+    "cook": 18,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g desiccated coconut"
+      },
+      {
+        "qty": "",
+        "item": "150 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "3 egg whites"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Heat oven to 170°C (150°C fan). Line a tray.",
+      "Whisk egg whites lightly until foamy, not stiff. Stir in sugar, coconut and vanilla.",
+      "Form 16 mounds with damp hands.",
+      "Bake 15–18 minutes until golden and set. Cool fully."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "coconut macaroons",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Double Chocolate Cookies",
+    "category": "Biscuits",
+    "servings": 16,
+    "prep": 15,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "150 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "35 g cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "120 g butter"
+      },
+      {
+        "qty": "",
+        "item": "130 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "100 g dark chocolate chunks"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp bicarbonate of soda"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line trays.",
+      "Cream butter and sugar; beat in egg. Fold in flour, cocoa, bicarbonate and chocolate.",
+      "Scoop 16 spaced portions.",
+      "Bake 10–12 minutes. Centres will firm as they cool."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "double chocolate cookies",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Lemon Biscuits",
+    "category": "Biscuits",
+    "servings": 20,
+    "prep": 20,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "125 g butter"
+      },
+      {
+        "qty": "",
+        "item": "90 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 lemon"
+      },
+      {
+        "qty": "",
+        "item": "1 egg yolk"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line trays.",
+      "Cream butter and sugar with lemon zest; add yolk and flour.",
+      "Roll dough into small balls and flatten gently.",
+      "Bake 10–12 minutes until lightly golden. Cool."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "lemon biscuits",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Almond Biscotti",
+    "category": "Biscuits",
+    "servings": 24,
+    "prep": 20,
+    "cook": 40,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "150 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "150 g whole almonds"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp baking powder"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line tray.",
+      "Mix flour, sugar and baking powder; add eggs, vanilla and almonds to make firm dough.",
+      "Shape two logs and bake 25 minutes. Cool 10 minutes.",
+      "Slice diagonally and bake slices 7–8 minutes per side until dry and crisp."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "almond biscotti",
+      "biscuits"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Basic White Bread",
+    "category": "Bread",
+    "servings": 12,
+    "prep": 20,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500 g strong white bread flour"
+      },
+      {
+        "qty": "",
+        "item": "7 g instant yeast"
+      },
+      {
+        "qty": "",
+        "item": "10 g salt"
+      },
+      {
+        "qty": "",
+        "item": "320 ml lukewarm water"
+      },
+      {
+        "qty": "",
+        "item": "25 ml olive oil"
+      }
+    ],
+    "steps": [
+      "Mix flour, yeast and salt (keep salt and yeast apart initially), then add water and oil.",
+      "Knead 10 minutes until elastic. Cover and prove 1–2 hours until doubled.",
+      "Shape into loaf, place in greased 2lb tin and prove 40–60 minutes.",
+      "Bake at 220°C (200°C fan) for 25–30 minutes until golden and hollow-sounding. Cool on rack."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "basic white bread",
+      "bread"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Wholemeal Bread",
+    "category": "Bread",
+    "servings": 12,
+    "prep": 20,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "350 g strong wholemeal flour"
+      },
+      {
+        "qty": "",
+        "item": "150 g strong white bread flour"
+      },
+      {
+        "qty": "",
+        "item": "7 g instant yeast"
+      },
+      {
+        "qty": "",
+        "item": "10 g salt"
+      },
+      {
+        "qty": "",
+        "item": "340 ml lukewarm water"
+      },
+      {
+        "qty": "",
+        "item": "20 ml olive oil"
+      }
+    ],
+    "steps": [
+      "Mix flours, yeast and salt; add water and oil to form dough.",
+      "Knead 10–12 minutes; prove covered until doubled.",
+      "Shape into loaf tin and prove until risen just above rim.",
+      "Bake at 220°C (200°C fan) for 30–35 minutes. Cool fully."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "wholemeal bread",
+      "bread"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Easy Bread Rolls",
+    "category": "Bread",
+    "servings": 8,
+    "prep": 20,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500 g strong white bread flour"
+      },
+      {
+        "qty": "",
+        "item": "7 g instant yeast"
+      },
+      {
+        "qty": "",
+        "item": "10 g salt"
+      },
+      {
+        "qty": "",
+        "item": "325 ml lukewarm water"
+      },
+      {
+        "qty": "",
+        "item": "30 g softened butter"
+      }
+    ],
+    "steps": [
+      "Mix ingredients to make dough; knead 10 minutes.",
+      "Prove covered until doubled, about 1 hour.",
+      "Divide into eight balls, place on tray and prove 35–45 minutes.",
+      "Bake at 220°C (200°C fan) for 18–20 minutes until golden."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "easy bread rolls",
+      "bread"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Focaccia",
+    "category": "Bread",
+    "servings": 12,
+    "prep": 20,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500 g strong white bread flour"
+      },
+      {
+        "qty": "",
+        "item": "7 g instant yeast"
+      },
+      {
+        "qty": "",
+        "item": "10 g salt"
+      },
+      {
+        "qty": "",
+        "item": "400 ml lukewarm water"
+      },
+      {
+        "qty": "",
+        "item": "70 ml olive oil"
+      },
+      {
+        "qty": "",
+        "item": "2 sprigs rosemary"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp flaky sea salt"
+      }
+    ],
+    "steps": [
+      "Mix flour, yeast, salt, water and 30ml oil to a sticky dough; knead or fold until smooth.",
+      "Prove in oiled bowl until doubled, then tip into well-oiled 23x33cm tray.",
+      "Rest 30–45 minutes, dimple with fingers, drizzle remaining oil and add rosemary and flaky salt.",
+      "Bake at 220°C (200°C fan) for 20–25 minutes until golden. Cool."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "focaccia",
+      "bread"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Garlic Flatbreads",
+    "category": "Bread",
+    "servings": 6,
+    "prep": 15,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "300 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "250 g natural yoghurt"
+      },
+      {
+        "qty": "",
+        "item": "2 garlic cloves"
+      },
+      {
+        "qty": "",
+        "item": "30 g butter"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp chopped parsley"
+      }
+    ],
+    "steps": [
+      "Mix flour and yoghurt into a soft dough; knead briefly.",
+      "Divide into six, roll thinly and cook in a dry hot frying pan 2–3 minutes per side until cooked through.",
+      "Melt butter with crushed garlic gently; brush over cooked breads and sprinkle parsley."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "garlic flatbreads",
+      "bread"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Cheese Scones",
+    "category": "Scones",
+    "servings": 8,
+    "prep": 15,
+    "cook": 18,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "225 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "55 g cold butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g grated mature cheddar"
+      },
+      {
+        "qty": "",
+        "item": "150 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp mustard powder"
+      }
+    ],
+    "steps": [
+      "Heat oven to 220°C (200°C fan). Line tray.",
+      "Rub butter into flour and mustard powder. Stir in cheese and enough milk for soft dough.",
+      "Pat to 2cm thick; cut eight rounds without twisting cutter.",
+      "Bake 15–18 minutes until risen and golden."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "cheese scones",
+      "scones"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Fruit Scones",
+    "category": "Scones",
+    "servings": 8,
+    "prep": 15,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "225 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "55 g cold butter"
+      },
+      {
+        "qty": "",
+        "item": "30 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "75 g sultanas"
+      },
+      {
+        "qty": "",
+        "item": "150 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "1 egg for glazing"
+      }
+    ],
+    "steps": [
+      "Heat oven to 220°C (200°C fan). Line tray.",
+      "Rub butter into flour, stir in sugar and sultanas, then milk to make soft dough.",
+      "Pat to 2cm thick, cut eight rounds and brush tops with beaten egg.",
+      "Bake 12–15 minutes until risen and golden."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "fruit scones",
+      "scones"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Plain Scones",
+    "category": "Scones",
+    "servings": 8,
+    "prep": 15,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "225 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "55 g cold butter"
+      },
+      {
+        "qty": "",
+        "item": "25 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "150 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "1 egg for glazing"
+      }
+    ],
+    "steps": [
+      "Heat oven to 220°C (200°C fan). Line tray.",
+      "Rub butter into flour; stir in sugar and milk to form soft dough.",
+      "Pat 2cm thick, cut eight rounds and brush tops with beaten egg.",
+      "Bake 12–15 minutes until golden. Serve with jam."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "plain scones",
+      "scones"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Blueberry Muffins",
+    "category": "Muffins",
+    "servings": 12,
+    "prep": 15,
+    "cook": 23,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "120 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "180 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "90 ml vegetable oil"
+      },
+      {
+        "qty": "",
+        "item": "150 g blueberries"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan). Line 12-hole muffin tin.",
+      "Mix flour and sugar in one bowl; whisk eggs, milk and oil in another.",
+      "Combine briefly, fold in blueberries and divide into cases.",
+      "Bake 20–23 minutes until risen and a skewer comes out clean."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "blueberry muffins",
+      "muffins"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Chocolate Muffins",
+    "category": "Muffins",
+    "servings": 12,
+    "prep": 15,
+    "cook": 22,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "220 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "35 g cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "130 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "200 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "90 ml vegetable oil"
+      },
+      {
+        "qty": "",
+        "item": "100 g chocolate chips"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan). Line muffin tin.",
+      "Mix flour, cocoa, sugar and chips. Whisk eggs, milk and oil separately.",
+      "Combine gently without overmixing; divide into cases.",
+      "Bake 18–22 minutes until set."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "chocolate muffins",
+      "muffins"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Banana Muffins",
+    "category": "Muffins",
+    "servings": 12,
+    "prep": 15,
+    "cook": 22,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "3 ripe bananas"
+      },
+      {
+        "qty": "",
+        "item": "250 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "100 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "80 ml vegetable oil"
+      },
+      {
+        "qty": "",
+        "item": "80 ml milk"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan). Line muffin tin.",
+      "Mash bananas. Whisk eggs, oil and milk, then stir in bananas.",
+      "Fold into flour and sugar until just combined.",
+      "Divide into cases and bake 18–22 minutes."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "banana muffins",
+      "muffins"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Lemon Poppy Seed Muffins",
+    "category": "Muffins",
+    "servings": 12,
+    "prep": 15,
+    "cook": 22,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "120 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "180 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "90 ml vegetable oil"
+      },
+      {
+        "qty": "",
+        "item": "2 lemons"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp poppy seeds"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan). Line muffin tin.",
+      "Mix flour, sugar, poppy seeds and lemon zest. Whisk eggs, milk, oil and juice of one lemon.",
+      "Combine briefly and divide into cases.",
+      "Bake 18–22 minutes until risen and set."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "lemon poppy seed muffins",
+      "muffins"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Vanilla Cupcakes",
+    "category": "Cupcakes",
+    "servings": 12,
+    "prep": 20,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "125 g softened butter"
+      },
+      {
+        "qty": "",
+        "item": "125 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "125 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      },
+      {
+        "qty": "",
+        "item": "150 g butter"
+      },
+      {
+        "qty": "",
+        "item": "250 g icing sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp milk"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line cupcake tin.",
+      "Cream first butter and sugar, beat in eggs and vanilla, fold in flour.",
+      "Divide between cases and bake 18–20 minutes. Cool completely.",
+      "Beat remaining butter with icing sugar and milk; pipe onto cooled cakes."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "vanilla cupcakes",
+      "cupcakes"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Chocolate Cupcakes",
+    "category": "Cupcakes",
+    "servings": 12,
+    "prep": 20,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "125 g butter"
+      },
+      {
+        "qty": "",
+        "item": "125 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "100 g self-raising flour"
+      },
+      {
+        "qty": "",
+        "item": "25 g cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp milk"
+      },
+      {
+        "qty": "",
+        "item": "150 g butter"
+      },
+      {
+        "qty": "",
+        "item": "220 g icing sugar"
+      },
+      {
+        "qty": "",
+        "item": "20 g cocoa powder"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line cupcake tin.",
+      "Cream first butter and sugar, beat in eggs, then fold in flour, first cocoa and milk.",
+      "Divide and bake 18–20 minutes; cool fully.",
+      "Beat remaining butter, icing sugar and remaining cocoa into frosting and pipe on top."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "chocolate cupcakes",
+      "cupcakes"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Red Velvet Cupcakes",
+    "category": "Cupcakes",
+    "servings": 12,
+    "prep": 20,
+    "cook": 22,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "150 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "120 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "100 ml buttermilk"
+      },
+      {
+        "qty": "",
+        "item": "80 ml vegetable oil"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp red food colouring"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp bicarbonate of soda"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp white vinegar"
+      },
+      {
+        "qty": "",
+        "item": "150 g cream cheese"
+      },
+      {
+        "qty": "",
+        "item": "80 g icing sugar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line cupcake tin.",
+      "Whisk egg, sugar, oil, buttermilk and colouring. Fold in flour and cocoa, then bicarbonate and vinegar.",
+      "Divide into cases and bake 18–22 minutes. Cool fully.",
+      "Beat cream cheese with icing sugar and spread on cupcakes. Refrigerate."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "red velvet cupcakes",
+      "cupcakes"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Cinnamon Rolls",
+    "category": "Pastries",
+    "servings": 12,
+    "prep": 30,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500 g strong white bread flour"
+      },
+      {
+        "qty": "",
+        "item": "7 g instant yeast"
+      },
+      {
+        "qty": "",
+        "item": "60 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "8 g salt"
+      },
+      {
+        "qty": "",
+        "item": "250 ml warm milk"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp cinnamon"
+      },
+      {
+        "qty": "",
+        "item": "100 g icing sugar"
+      }
+    ],
+    "steps": [
+      "Mix flour, yeast, caster sugar and salt; add milk, egg and 50g softened butter.",
+      "Knead until elastic and prove until doubled, about 1 hour.",
+      "Roll into rectangle; spread remaining butter and sprinkle brown sugar and cinnamon. Roll up and cut 12 pieces.",
+      "Prove in greased tray 30–45 minutes; bake at 190°C (170°C fan) 22–25 minutes. Drizzle icing sugar mixed with water."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "cinnamon rolls",
+      "pastries"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Apple Turnovers",
+    "category": "Pastries",
+    "servings": 8,
+    "prep": 20,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500 g ready-rolled puff pastry"
+      },
+      {
+        "qty": "",
+        "item": "3 apples"
+      },
+      {
+        "qty": "",
+        "item": "50 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp lemon juice"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan). Line tray.",
+      "Peel and dice apples; cook gently with sugar, cinnamon and lemon juice for 5–7 minutes. Cool.",
+      "Cut pastry into eight squares, spoon cooled filling on each, fold into triangles and seal edges.",
+      "Brush with beaten egg and bake 20–25 minutes until puffed and golden."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "apple turnovers",
+      "pastries"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Jam Tarts",
+    "category": "Pastries",
+    "servings": 12,
+    "prep": 20,
+    "cook": 18,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "125 g cold butter"
+      },
+      {
+        "qty": "",
+        "item": "3 tbsp cold water"
+      },
+      {
+        "qty": "",
+        "item": "150 g strawberry jam"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan). Lightly grease 12-hole shallow bun tin.",
+      "Rub butter into flour, add cold water to form pastry; chill 15 minutes.",
+      "Roll pastry, cut 12 rounds and line tin. Add a teaspoon of jam to each, not overfilling.",
+      "Bake 15–18 minutes until pastry is golden. Cool before eating."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "jam tarts",
+      "pastries"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Mini Sausage Rolls",
+    "category": "Pastries",
+    "servings": 16,
+    "prep": 20,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "375 g ready-rolled puff pastry"
+      },
+      {
+        "qty": "",
+        "item": "400 g sausage meat"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp dried sage"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan). Line tray.",
+      "Mix sausage meat with sage. Cut pastry lengthways into two strips.",
+      "Shape sausage meat into two logs, wrap in pastry, seal with beaten egg and cut into 16 pieces.",
+      "Brush tops with egg and bake 22–25 minutes until golden and sausage meat is fully cooked, piping hot throughout."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "mini sausage rolls",
+      "pastries"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Cheese Straws",
+    "category": "Pastries",
+    "servings": 20,
+    "prep": 15,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "320 g ready-rolled puff pastry"
+      },
+      {
+        "qty": "",
+        "item": "120 g grated cheddar"
+      },
+      {
+        "qty": "",
+        "item": "1 egg"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp paprika"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan). Line trays.",
+      "Sprinkle pastry with cheese and paprika; fold in half and roll gently.",
+      "Cut 20 strips, twist and place on trays. Brush with beaten egg.",
+      "Bake 12–15 minutes until crisp and golden."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "cheese straws",
+      "pastries"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Classic Brownies",
+    "category": "Traybakes",
+    "servings": 16,
+    "prep": 20,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g dark chocolate"
+      },
+      {
+        "qty": "",
+        "item": "175 g butter"
+      },
+      {
+        "qty": "",
+        "item": "250 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "3 eggs"
+      },
+      {
+        "qty": "",
+        "item": "100 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "30 g cocoa powder"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 20cm square tin.",
+      "Melt chocolate and butter gently; cool slightly. Whisk sugar and eggs, then stir in chocolate mixture.",
+      "Fold in flour and cocoa, pour into tin.",
+      "Bake 25–30 minutes until top set with a slight wobble in centre. Cool completely before slicing."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "classic brownies",
+      "traybakes"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Flapjacks",
+    "category": "Traybakes",
+    "servings": 16,
+    "prep": 15,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g rolled oats"
+      },
+      {
+        "qty": "",
+        "item": "150 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "100 g golden syrup"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line a 20cm square tin.",
+      "Melt butter, sugar and syrup gently; stir in oats.",
+      "Press mixture firmly into tin.",
+      "Bake 20–25 minutes until golden. Score warm and cool fully before lifting."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "flapjacks",
+      "traybakes"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Millionaire Shortbread",
+    "category": "Traybakes",
+    "servings": 16,
+    "prep": 30,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "125 g butter"
+      },
+      {
+        "qty": "",
+        "item": "60 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "397 g tin condensed milk"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "200 g milk chocolate"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Line 20cm square tin.",
+      "Rub first butter into flour and caster sugar; press into tin and bake 20–25 minutes. Cool.",
+      "Heat condensed milk, remaining butter and brown sugar in heavy pan, stirring constantly until thick and golden, about 8–10 minutes. Pour over base and cool.",
+      "Melt chocolate gently, spread on cooled caramel and chill until set. Cut with warm knife."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "millionaire shortbread",
+      "traybakes"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Rocky Road",
+    "category": "No-Bake",
+    "servings": 16,
+    "prep": 20,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g milk chocolate"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "3 tbsp golden syrup"
+      },
+      {
+        "qty": "",
+        "item": "150 g digestive biscuits"
+      },
+      {
+        "qty": "",
+        "item": "75 g mini marshmallows"
+      },
+      {
+        "qty": "",
+        "item": "75 g raisins"
+      }
+    ],
+    "steps": [
+      "Line a 20cm square tin.",
+      "Melt chocolate, butter and syrup gently; cool a few minutes.",
+      "Break biscuits into pieces and fold into chocolate with marshmallows and raisins.",
+      "Press into tin and refrigerate at least 2 hours until firm. Cut into squares."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "rocky road",
+      "no-bake"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "No-Bake Cheesecake",
+    "category": "No-Bake",
+    "servings": 10,
+    "prep": 25,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g digestive biscuits"
+      },
+      {
+        "qty": "",
+        "item": "100 g melted butter"
+      },
+      {
+        "qty": "",
+        "item": "500 g full-fat cream cheese"
+      },
+      {
+        "qty": "",
+        "item": "100 g icing sugar"
+      },
+      {
+        "qty": "",
+        "item": "300 ml double cream"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Line base of 20cm springform tin.",
+      "Crush biscuits and mix with melted butter; press firmly into base and chill.",
+      "Beat cream cheese, icing sugar and vanilla. Whip cream to soft peaks and fold in.",
+      "Spread on base and refrigerate at least 6 hours until firm. Keep chilled."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "no-bake cheesecake",
+      "no-bake"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Rice Krispie Squares",
+    "category": "No-Bake",
+    "servings": 16,
+    "prep": 15,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200 g marshmallows"
+      },
+      {
+        "qty": "",
+        "item": "50 g butter"
+      },
+      {
+        "qty": "",
+        "item": "150 g puffed rice cereal"
+      }
+    ],
+    "steps": [
+      "Line a 20cm square tin.",
+      "Melt butter and marshmallows gently in a large pan, stirring until smooth.",
+      "Remove from heat and quickly stir in cereal until coated.",
+      "Press into tin with lightly buttered spatula; cool and cut."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "rice krispie squares",
+      "no-bake"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Chocolate Tiffin",
+    "category": "No-Bake",
+    "servings": 16,
+    "prep": 20,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250 g digestive biscuits"
+      },
+      {
+        "qty": "",
+        "item": "100 g butter"
+      },
+      {
+        "qty": "",
+        "item": "100 g golden syrup"
+      },
+      {
+        "qty": "",
+        "item": "40 g cocoa powder"
+      },
+      {
+        "qty": "",
+        "item": "100 g raisins"
+      },
+      {
+        "qty": "",
+        "item": "200 g milk chocolate"
+      }
+    ],
+    "steps": [
+      "Line a 20cm square tin.",
+      "Crush biscuits roughly. Melt butter and syrup gently; stir in cocoa.",
+      "Mix biscuits and raisins into cocoa mixture, press firmly into tin.",
+      "Melt chocolate and spread on top. Chill 2 hours until firm; slice."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "chocolate tiffin",
+      "no-bake"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Fruit Crumble",
+    "category": "Desserts",
+    "servings": 6,
+    "prep": 20,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "600 g cooking apples"
+      },
+      {
+        "qty": "",
+        "item": "150 g mixed berries"
+      },
+      {
+        "qty": "",
+        "item": "80 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "150 g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "100 g cold butter"
+      },
+      {
+        "qty": "",
+        "item": "75 g light brown sugar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan). Put peeled sliced apples and berries in baking dish and sprinkle caster sugar.",
+      "Rub butter into flour until crumbly, then mix in brown sugar.",
+      "Scatter crumble over fruit without pressing down.",
+      "Bake 30–35 minutes until topping golden and fruit bubbling. Rest before serving."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "fruit crumble",
+      "desserts"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Bread and Butter Pudding",
+    "category": "Desserts",
+    "servings": 6,
+    "prep": 20,
+    "cook": 40,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "8 slices white bread"
+      },
+      {
+        "qty": "",
+        "item": "50 g butter"
+      },
+      {
+        "qty": "",
+        "item": "75 g raisins"
+      },
+      {
+        "qty": "",
+        "item": "3 eggs"
+      },
+      {
+        "qty": "",
+        "item": "400 ml milk"
+      },
+      {
+        "qty": "",
+        "item": "100 ml double cream"
+      },
+      {
+        "qty": "",
+        "item": "60 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan). Butter bread and arrange in baking dish with raisins.",
+      "Whisk eggs, milk, cream, sugar and vanilla; pour over bread.",
+      "Leave to soak 15 minutes.",
+      "Bake 35–40 minutes until custard is set with a slight wobble. Serve warm."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "bread and butter pudding",
+      "desserts"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Baked Rice Pudding",
+    "category": "Desserts",
+    "servings": 6,
+    "prep": 10,
+    "cook": 120,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "100 g pudding rice"
+      },
+      {
+        "qty": "",
+        "item": "800 ml whole milk"
+      },
+      {
+        "qty": "",
+        "item": "50 g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "20 g butter"
+      },
+      {
+        "qty": "",
+        "item": "1/4 tsp ground nutmeg"
+      }
+    ],
+    "steps": [
+      "Heat oven to 150°C (130°C fan). Butter a deep ovenproof dish.",
+      "Mix rice, milk and sugar in dish. Dot with butter and sprinkle nutmeg.",
+      "Bake 1 hour 45 minutes to 2 hours, stirring once after 30 minutes, until rice tender and top golden.",
+      "Rest 10 minutes before serving."
+    ],
+    "notes": "Contains potential allergens; check ingredient labels. Follow safe handling and storage guidance, especially for eggs, dairy and uncooked fillings.",
+    "tags": [
+      "baked rice pudding",
+      "desserts"
+    ]
+  }
+]
